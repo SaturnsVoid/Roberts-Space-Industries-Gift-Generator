@@ -1,4 +1,4 @@
-# Roberts-Space-Industries-Gift-Generator
+# Roberts Space Industries: Gift Generator
 
 Simple attempt at making a program to **Brute** F**orce** Gift codes for Roberts Space Industries AKA Star Citizen.
 
