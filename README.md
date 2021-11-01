@@ -11,3 +11,13 @@ The issue; The issue with this is that the gift code is a string of 13 character
 So in the end, it basically pointless to try. The code works but is far to **inefficient.**
 
 **Posting the code so others may learn from how I did this if they want.**
+
+# Donations and Support
+
+![](https://blockchain.info/Resources/buttons/donate_64.png)
+
+Taking time out of my life to study, code and debug projects like these takes time and money away from me and my family, any support will be apricated and will aid in the future projects I am working on and plan to release. 
+
+Please Donate To Bitcoin Address: **1AEbR1utjaYu3SGtBKZCLJMRR5RS7Bp7eE**
+
+**Message me for other Donation Options.**
